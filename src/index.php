@@ -1,9 +1,9 @@
 <?php
 require 'includes/header.php';
 
-$fullTagName = 'v0.23.8-beta';
+$fullTagName = 'v0.23.9-beta';
 
-$versionNumber = '0.23.8';
+$versionNumber = '0.23.9';
 
 $currentRelease = "Release ".$versionNumber."Beta";
 
